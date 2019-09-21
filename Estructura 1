@@ -1,0 +1,5 @@
+struct [ <nombre tipo de estructura > ] {
+    [<tipo> <nombre-variable[,nombre-variable,...]>];
+    [<tipo> <nombre-variable[,nombre-variable,...]>];
+    ...
+} [ <variables de estructura> ] ;
